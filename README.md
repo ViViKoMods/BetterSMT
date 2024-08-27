@@ -9,5 +9,5 @@
 - Top right Product info now works for boxes
 
 # Credits
-- Iza [Helped with Transpiling]
+- Ika [Helped with Transpiling]
 - TeamCrisis [Most of the ideas in this mod]
