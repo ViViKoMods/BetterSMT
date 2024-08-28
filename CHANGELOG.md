@@ -1,3 +1,7 @@
+### v1.1.3
+- Fixed errors when looking at trash bins
+- Right click to clear now works again (thanks Ika)
+
 ### v1.1.2
 - Updated to August 19th patch
 - Added ability to see product info when hovering boxes
