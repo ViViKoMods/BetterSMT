@@ -1,3 +1,6 @@
+### v1.2.0
+- Added Faster Checkout to config. When enabled customers will place all items down on the checkout at once
+
 ### v1.1.3
 - Fixed errors when looking at trash bins
 - Right click to clear now works again (thanks Ika)

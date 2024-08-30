@@ -7,6 +7,7 @@
 - Config to change employee speed per perk
 - Config to make thiefs one hit
 - Top right Product info now works for boxes
+- Config for faster checkout (Customers place items on to checkout instantly)
 
 # Credits
 - Ika [Helped with Transpiling]
